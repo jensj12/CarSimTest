@@ -1,5 +1,5 @@
 # CarSimTest
-A game about cars moving around. Look in the releases folder for downloads.
+A game about cars moving around. Look in the releases folder for downloads (windows only). Simply unzip the folder and run the executable.
 
 The final game will contain:
 * Player-built road network consisting of intantly placable modules
@@ -7,6 +7,9 @@ The final game will contain:
 * Custom road modules
 * A pathfinder that respects current traffic conditions
 * Programmable traffic lights
+
+## v0.2
+Infrastructure modules have arrived! Cars will simply follow their predefined paths and jump onto the next module at the end.
 
 ## v0.1
 Cars move around on a world made of tiles. Traffic lights automatically block tiles at regular intervals.
