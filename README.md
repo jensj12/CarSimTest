@@ -8,6 +8,9 @@ The final game will contain:
 * A pathfinder that respects current traffic conditions
 * Programmable traffic lights
 
+## v0.4
+The graphics system has been reworked to allow scrolling of the world and to allow bigger vehicles with multiple textures. This makes it possible to have a much larger world and maybe even trains.
+
 ## v0.3
 * Cars have a new texture and rotate properly
 * Custom infrastructure modules can be loaded from a text file. Still needs a lot of improvements...
