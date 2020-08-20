@@ -8,6 +8,9 @@ The final game will contain:
 * A pathfinder that respects current traffic conditions
 * Programmable traffic lights
 
+## v0.5
+Windows! Add new viewports with v and remove the topmost window with backspace.
+
 ## v0.4
 The graphics system has been reworked to allow scrolling of the world and to allow bigger vehicles with multiple textures. This makes it possible to have a much larger world and maybe even trains.
 
