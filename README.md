@@ -8,6 +8,12 @@ The final game will contain:
 * A pathfinder that respects current traffic conditions
 * Programmable traffic lights
 
+## v0.6
+The build window has arrived!
+* Use b to open the build window
+* Build straight roads by clicking on the world with the build window open
+* Use 1, 2 and 3 to toggle visibility options and see your new roads
+
 ## v0.5
 Windows! Add new viewports with v and remove the topmost window with backspace.
 
